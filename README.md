@@ -28,7 +28,7 @@ Aqui estão algumas das tecnologias com as quais já tive contato:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=cyyzone&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-cyzzone&layout=compact&theme=radical&hide_border=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cyzzone&layout=compact&theme=radical&hide_border=true)
 
 ---
 
